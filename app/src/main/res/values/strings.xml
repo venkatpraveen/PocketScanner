@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">Pocket Scanner</string>
 
-    <string name="facebook_app_id">493666138072082</string>
-    <string name="fb_login_protocol_scheme">fb493666138072082</string>
+    <string name="facebook_app_id">your facebook app id</string>
+    <string name="fb_login_protocol_scheme">your facebook login protocol scheme</string>
 
     <string name="a_msg_no_pdf_activity">No activity for opening PDF file</string>
     <string name="a_title_success">Success</string>
