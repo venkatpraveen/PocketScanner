@@ -32,8 +32,8 @@
 
         <Button
             android:id="@+id/fb_login_button"
-            android:layout_width="@dimen/button_width"
-            android:layout_height="@dimen/button_height"
+            android:layout_width="@dimen/card_width"
+            android:layout_height="@dimen/card_height"
             android:layout_gravity="center"
             android:background="@drawable/ic_facebook"
             android:onClick="onFbClick" />
